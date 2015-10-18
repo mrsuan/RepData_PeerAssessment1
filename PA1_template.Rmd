@@ -1,8 +1,10 @@
 ---
-title: "Reproducible Research: Peer Assessment 1"
+title: 'Reproducible Research: Peer Assessment 1'
+output:
+  html_document:
+    fig_caption: yes
+    keep_md: yes
 ---
-by Asher Wen
-
 
 ## Loading and preprocessing the data
 
